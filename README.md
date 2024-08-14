@@ -27,7 +27,7 @@ The **Generative AI Prompt Creator** is a Python-based desktop application that 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Generative-AI-Prompt-Creator.git
+   git clone https://github.com/MoshikoKar/Generative-AI-Prompt-Creator
    cd Generative-AI-Prompt-Creator
    ```
 
@@ -40,7 +40,7 @@ The **Generative AI Prompt Creator** is a Python-based desktop application that 
 3. **Run the Application:**
    Execute the following command to start the application:
    ```bash
-   python main.py
+   python prompt-generator.py
    ```
 
 ## Usage
