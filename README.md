@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **Generative AI Prompt Creator** is a Python-based desktop application that allows users to dynamically generate prompts for AI generative models. The application features a customizable GUI where users can select or input various options such as the main subject, secondary subject, action or scene, background, environment, mood, and many more. These selections are then used to generate a detailed prompt suitable for AI art or text generation models.
+The **Generative AI Prompt Creator** is a Python-based desktop application designed to dynamically generate prompts for image creation using AI generative models. The application, named `prompt-generator.py`, features a customizable GUI where users can select or input various options such as the main subject, secondary subject, action or scene, background, environment, mood, and many more. These selections are then used to generate a detailed prompt suitable for AI art or text generation models.
 
 ## Features
 
@@ -27,7 +27,7 @@ The **Generative AI Prompt Creator** is a Python-based desktop application that 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/MoshikoKar/Generative-AI-Prompt-Creator
+   git clone https://github.com/MoshikoKar/Generative-AI-Prompt-Creator.git
    cd Generative-AI-Prompt-Creator
    ```
 
@@ -100,4 +100,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to open an issue or contact me at 
+If you have any questions or suggestions, please feel free to open an issue or contact me via Discord: [MoshikoKar Discord Server](https://discord.gg/2fDMTcye).
