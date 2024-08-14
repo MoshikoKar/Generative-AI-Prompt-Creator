@@ -101,3 +101,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions or suggestions, please feel free to open an issue or contact me via Discord: [MoshikoKar Discord Server](https://discord.gg/2fDMTcye).
+
+## Screenshots
+
+Here are some screenshots of the Generative AI Prompt Creator in action:
+
+![Ford Shelby 67 Example](https://github.com/MoshikoKar/Generative-AI-Prompt-Creator/blob/main/Ford%20Shelby%2067%20Example.png)
+
+![Ford Shelby 67](https://github.com/MoshikoKar/Generative-AI-Prompt-Creator/blob/main/Ford%20Shelby%2067.png)
+
