@@ -88,7 +88,7 @@ Here are some example prompts that can be generated using this application:
 
 ## Customization
 
-You can customize the application by editing the Python code to include additional options or modify existing ones. The `main.py` file is where most of the logic resides. You can also modify the GUI layout in the `PromptGenerator` class.
+You can customize the application by editing the Python code to include additional options or modify existing ones. The `prompt-generator.py` file is where most of the logic resides. You can also modify the GUI layout in the `PromptGenerator` class.
 
 ## Contributing
 
@@ -100,4 +100,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to open an issue or contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, please feel free to open an issue or contact me at [your-email@example.com](mailto:moshikokar@gmail.com).
